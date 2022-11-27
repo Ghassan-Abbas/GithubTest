@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         
         
         label.textColor = .red
+        
         label.text = "Hello main"
     }
 
