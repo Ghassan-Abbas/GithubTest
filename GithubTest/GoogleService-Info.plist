@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>652761931369-ros0d4k17o0hgs81b7605pqhoeng3166.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.652761931369-ros0d4k17o0hgs81b7605pqhoeng3166</string>
+	<key>API_KEY</key>
+	<string>AIzaSyATbx6_Bt-fIPC8VtOJOTJ_DVwVGgi_rY8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>652761931369</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>bp.polytechnic.GithubTest</string>
+	<key>PROJECT_ID</key>
+	<string>githubtest-13cb8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>githubtest-13cb8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:652761931369:ios:3526e9880334f9bf928cf8</string>
+	<key>DATABASE_URL</key>
+	<string>https://githubtest-13cb8-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
