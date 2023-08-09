@@ -16,6 +16,7 @@
 		4660BA0D293324A50048246E /* GithubTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4660BA0C293324A50048246E /* GithubTestTests.swift */; };
 		4660BA17293324A50048246E /* GithubTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4660BA16293324A50048246E /* GithubTestUITests.swift */; };
 		4660BA19293324A50048246E /* GithubTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4660BA18293324A50048246E /* GithubTestUITestsLaunchTests.swift */; };
+		A5267A072A825A3C00C044A8 /* CourseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5267A062A825A3C00C044A8 /* CourseTableViewCell.swift */; };
 		A5517E5C2A7BC43500113846 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = A5517E5B2A7BC43500113846 /* FirebaseAuth */; };
 		A5517E5E2A7BC43500113846 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = A5517E5D2A7BC43500113846 /* FirebaseDatabase */; };
 		A5517E602A7BC43500113846 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = A5517E5F2A7BC43500113846 /* FirebaseFirestore */; };
@@ -58,6 +59,7 @@
 		4660BA12293324A50048246E /* GithubTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GithubTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4660BA16293324A50048246E /* GithubTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubTestUITests.swift; sourceTree = "<group>"; };
 		4660BA18293324A50048246E /* GithubTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GithubTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A5267A062A825A3C00C044A8 /* CourseTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseTableViewCell.swift; sourceTree = "<group>"; };
 		A5517E632A7BC52B00113846 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A5517E652A7BC5EF00113846 /* FirestoreTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirestoreTableViewCell.swift; sourceTree = "<group>"; };
 		A5517E672A7BC60C00113846 /* SecondTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondTableViewCell.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				4660B9F7293324A30048246E /* SceneDelegate.swift */,
 				4660B9F9293324A30048246E /* ViewController.swift */,
 				4660B9FB293324A30048246E /* Main.storyboard */,
+				A5267A062A825A3C00C044A8 /* CourseTableViewCell.swift */,
 				A5517E652A7BC5EF00113846 /* FirestoreTableViewCell.swift */,
 				A5517E672A7BC60C00113846 /* SecondTableViewCell.swift */,
 				4660B9FE293324A40048246E /* Assets.xcassets */,
@@ -291,6 +294,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5267A072A825A3C00C044A8 /* CourseTableViewCell.swift in Sources */,
 				4660B9FA293324A30048246E /* ViewController.swift in Sources */,
 				A5517E682A7BC60C00113846 /* SecondTableViewCell.swift in Sources */,
 				A5517E6C2A7BCC2900113846 /* CountryCollectionViewCell.swift in Sources */,
